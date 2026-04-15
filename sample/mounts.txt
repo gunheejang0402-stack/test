@@ -1,0 +1,2 @@
+/dev/sda on / type ext4 (rw)
+/dev/sdb on /data1 type xfs (rw)
