@@ -1,0 +1,3 @@
+Slot:1 State:Online SN:S4ABC001 /dev/sda
+Slot:5 State:Failed SN:S4ABC005 /dev/sdb
+Slot:7 State:Missing SN:S4ABC007 /dev/sdc

@@ -1,0 +1,3 @@
+12 | 04/15/2026 | 08:55:11 | DIMM_A1 | Uncorrectable ECC | Asserted
+13 | 04/15/2026 | 08:55:20 | FAN4 | Lower Critical Going Low | Asserted
+14 | 04/15/2026 | 08:55:30 | PSU2 | Failure detected | Asserted
